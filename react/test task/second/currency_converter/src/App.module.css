@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+}
+
+.app{
+  color: darkviolet;
+  font-size: 40px;
+}
+
+.link_1 {
+  text-decoration: none;
+  padding: 10px;
+}
+
+.link_2 {
+  text-decoration: none;
+  padding: 10px;
+}
+
