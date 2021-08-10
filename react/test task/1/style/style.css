@@ -15,6 +15,8 @@ body {
 
 a {
     text-decoration: none;
+    cursor: pointer;
+    color: #343030;
 }
 
 ul {
@@ -96,7 +98,12 @@ button {
     color: #FFFFFF;
     background-color: #403432;
     padding: 14px 36px;
-    width: 122px
+    width: 122px;
+    font-weight: 700;
+}
+
+.search-button:hover {
+    background-color: #776763;
 }
 
 /* MAIN SECTION */
@@ -170,6 +177,10 @@ button {
     padding-top: 14px;
     padding-bottom: 13px;
     padding-right: 30px;
+}
+
+.buy-button:hover {
+    background-color: #776763;
 }
 
 .add-to-cart-button {
